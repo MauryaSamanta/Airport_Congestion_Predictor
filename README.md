@@ -1,6 +1,6 @@
 # Airport Departure Congestion Prediction
 
-This project analyzes and predicts **airport departure congestion** using flight operations data, focusing on delays caused by ground surface congestion (mainly taxiways and runway queues). The goal is to build an interpretable machine learning model (Decision Tree) that predicts whether a departing flight will experience congestion.
+This project analyzes and predicts **airport departure congestion** using flight operations data, focusing on delays caused by ground surface congestion (mainly taxiways and runway queues). The goal is to build an interpretable machine learning model that predicts whether a departing flight will experience congestion.
 
 ---
 
