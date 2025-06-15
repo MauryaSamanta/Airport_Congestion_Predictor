@@ -25,12 +25,12 @@ This project analyzes and predicts **airport departure congestion** using flight
 - Created features such as hour of day, day of week, past congestion history, and rolling 1 hour average taxi out times
 
 ### 5. **Modeling**
-- Trained a model using both **Random Forest Classifier** as well as **Logistic Regression**
+- Trained a model using **Random Forest Classifier**, **Logistic Regression** and **XGBoost Classifier**
 
 
 ### 6. **Evaluation**
 - Evaluated the model using accuracy, precision, recall, and confusion matrix.
-- Obtained highest F1 score of 84% using **Random Forest Classifier** 
+- Obtained highest F1 score of 84% using **XGBoost Classifier** 
 
 ---
 
