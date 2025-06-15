@@ -105,6 +105,12 @@ class Train_Model:
         print("\nClassification Report:")
         print(classification_report(y_test, y_pred))
 
+        return y_test, y_pred,model
+    
+    def classification_report(self,y_test, y_pred):
+        report_dict=classification_report(y_test,y_pred,output_dict=True)
+        return report_dict
+
 
 
 
